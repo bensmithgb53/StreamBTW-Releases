@@ -20,8 +20,8 @@ This repository contains the build artifacts for StreamBTW Cloud$tream plugins.
 ## Usage
 
 Add this repository to your Cloud$tream app:
-```
-https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/main/repo.json
+```[
+https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/refs/heads/main/repo.json
 ```
 
 ## Auto-Update
@@ -37,5 +37,5 @@ This repository is automatically updated when changes are pushed to the main sou
 
 1. Open Cloud$tream app
 2. Go to Settings → Extensions → Repositories
-3. Add repository: `https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/main/repo.json`
+3. Add repository: `https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/refs/heads/main/repo.json`
 4. Install the desired plugins
