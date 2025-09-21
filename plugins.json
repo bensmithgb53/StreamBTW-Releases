@@ -1,4 +1,4 @@
-﻿[
+﻿﻿[
     {
         "iconUrl": "https://i.imgur.com/JqgVon6.png",
         "apiVersion": 1,
@@ -15,7 +15,7 @@
         "version": 13,
         "internalName": "PPVLand",
         "description": "Live streams from the PPV.",
-        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/main/PPVLand.cs3",
+        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/PPVLand.cs3",
         "name": "PPVLand"
     },
     {
@@ -34,7 +34,8 @@
         "version": 13,
         "internalName": "Streamed",
         "description": "Live streams from the Streamed.",
-        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/main/Streamed.cs3",
+        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/Streamed.cs3",
         "name": "Streamed"
     }
 ]
+
