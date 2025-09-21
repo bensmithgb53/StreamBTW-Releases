@@ -9,7 +9,7 @@ Thank You.
 
 # StreamBTW Releases
 
-This repository contains the build artifacts for StreamBTW Cloudstream plugins.
+This repository contains the build artifacts for StreamBTW Cloud$tream plugins.
 
 ## Files
 
@@ -19,7 +19,7 @@ This repository contains the build artifacts for StreamBTW Cloudstream plugins.
 
 ## Usage
 
-Add this repository to your Cloudstream app:
+Add this repository to your Cloud$tream app:
 ```
 https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/main/repo.json
 ```
@@ -35,7 +35,7 @@ This repository is automatically updated when changes are pushed to the main sou
 
 ## Installation
 
-1. Open Cloudstream app
+1. Open Cloud$tream app
 2. Go to Settings → Extensions → Repositories
 3. Add repository: `https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/main/repo.json`
 4. Install the desired plugins
