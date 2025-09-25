@@ -1,9 +1,9 @@
-﻿[
+[
     {
         "iconUrl": "https://i.imgur.com/JqgVon6.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 21397,
+        "fileSize": 21399,
         "status": 1,
         "language": "en",
         "authors": [
@@ -15,14 +15,14 @@
         "version": 13,
         "internalName": "PPVLand",
         "description": "Live streams from the PPV.",
-        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/main/PPVLand.cs3",
+        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/PPVLand.cs3",
         "name": "PPVLand"
     },
     {
         "iconUrl": "https://streamed.pk/api/images/poster/fallback.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 53762,
+        "fileSize": 45107,
         "status": 1,
         "language": "en",
         "authors": [
@@ -34,7 +34,7 @@
         "version": 13,
         "internalName": "Streamed",
         "description": "Live streams from the Streamed.",
-        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/main/Streamed.cs3",
+        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/Streamed.cs3",
         "name": "Streamed"
     }
 ]
