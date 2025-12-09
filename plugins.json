@@ -19,10 +19,10 @@
         "name": "PPVLand"
     },
     {
-        "iconUrl": "https://streamed.pk/api/images/poster/fallback.webp",
+        "iconUrl": "https://streamed.st/favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 53769,
+        "fileSize": 53902,
         "status": 1,
         "language": "en",
         "authors": [
