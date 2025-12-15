@@ -3,7 +3,7 @@
         "iconUrl": "https://i.imgur.com/JqgVon6.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 24650,
+        "fileSize": 24653,
         "status": 1,
         "language": "en",
         "authors": [
@@ -19,10 +19,29 @@
         "name": "PPVLand"
     },
     {
+        "iconUrl": "https://soccerstreams.us/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
+        "fileSize": 32800,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Ben"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "SoccerStreams",
+        "description": "Live sports streams from SoccerStreams - Football, Basketball, Hockey, MMA and more.",
+        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/SoccerStreams.cs3",
+        "name": "SoccerStreams"
+    },
+    {
         "iconUrl": "https://streamed.st/favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 51670,
+        "fileSize": 51676,
         "status": 1,
         "language": "en",
         "authors": [
