@@ -1,28 +1,9 @@
 [
     {
-        "iconUrl": "https://daddyhd.com/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 22703,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Ben"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "DaddyLiveHD",
-        "description": "Live sports streams from DaddyLiveHD - Football, Basketball, Hockey, MMA and more.",
-        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/DaddyLiveHD.cs3",
-        "name": "DaddyLiveHD"
-    },
-    {
         "iconUrl": "https://i.imgur.com/JqgVon6.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 34509,
+        "fileSize": 34510,
         "status": 1,
         "language": "en",
         "authors": [
@@ -38,10 +19,22 @@
         "name": "PPVLand"
     },
     {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
+        "status": 3,
+        "authors": [
+            
+        ],
+        "version": -1,
+        "internalName": "SoccerStreams",
+        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/SoccerStreams.cs3",
+        "name": "SoccerStreams"
+    },
+    {
         "iconUrl": "https://streamed.st/favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 51668,
+        "fileSize": 51685,
         "status": 1,
         "language": "en",
         "authors": [
