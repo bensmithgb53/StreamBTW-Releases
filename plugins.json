@@ -1,10 +1,30 @@
 [
     {
-        "iconUrl": "https://i.imgur.com/JqgVon6.png",
-        "fileHash": "sha256-f2de45bdbff59d0edf428163696d9a7ba9ed6edd84531535811b948127669741",
+        "iconUrl": "https://dlstreams.com/favicon.ico",
+        "fileHash": "sha256-7ba01c976b86b2e800d660345b2e6ac9db31217f041f3391c1ea343134ef7427",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 31163,
+        "fileSize": 26947,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Ben"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Daddylive",
+        "description": "Live streams from Daddylive.",
+        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/Daddylive.cs3",
+        "name": "Daddylive"
+    },
+    {
+        "iconUrl": "https://i.imgur.com/JqgVon6.png",
+        "fileHash": "sha256-6a66915aa7d052cad04e7c07687d68530b62956396b31eeefa998c9acf63eb10",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
+        "fileSize": 31168,
         "status": 1,
         "language": "en",
         "authors": [
@@ -20,23 +40,11 @@
         "name": "PPVLand"
     },
     {
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "status": 3,
-        "authors": [
-            
-        ],
-        "version": -1,
-        "internalName": "SoccerStreams",
-        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/SoccerStreams.cs3",
-        "name": "SoccerStreams"
-    },
-    {
         "iconUrl": "https://streamed.st/favicon.png",
-        "fileHash": "sha256-558b2206d46311a599c649323313fcd422fc15d84389d5d8de2ccdbea1db6194",
+        "fileHash": "sha256-f99ae21b07a3845a1e476c348d18b9876e1c58b57966655581c3f9f923996ec4",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 57797,
+        "fileSize": 57799,
         "status": 1,
         "language": "en",
         "authors": [
