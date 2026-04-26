@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://dlstreams.com/favicon.ico",
-        "fileHash": "sha256-8ff57f2cc6c5ad482604fed2101acbb7bda931bd38ad1a2a18fb88e37f1401c0",
+        "fileHash": "sha256-0dc488bcc2364ee91446cd6cbc9b250d8964176befef7a4fd64313e77d9088fa",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 22414,
+        "fileSize": 22409,
         "status": 1,
         "language": "en",
         "authors": [
@@ -21,10 +21,10 @@
     },
     {
         "iconUrl": "https://i.imgur.com/JqgVon6.png",
-        "fileHash": "sha256-89882c79a673d0adbb4a49fbfce0b9aa426b654c87cce99aeb14b326566984a3",
+        "fileHash": "sha256-9ec844eed1ec77cfa0b57cf09ba7245b2d9a148a40df58bba7b2a5cdbb526549",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 31167,
+        "fileSize": 31163,
         "status": 1,
         "language": "en",
         "authors": [
@@ -40,8 +40,8 @@
         "name": "PPVLand"
     },
     {
-        "iconUrl": "https://streamed.st/favicon.png",
-        "fileHash": "sha256-c4f307685a180a401dfa256e442c8b6e975fa7f31e5676a1570b55b97b256d3e",
+        "iconUrl": "https://streamed.st/favicon1.png",
+        "fileHash": "sha256-2a8b85db0efd04c6a4f5250c39f01dc38a713e661f86e4c835b546dd30e53a58",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
         "fileSize": 57795,
