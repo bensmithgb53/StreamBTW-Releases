@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://dlstreams.com/assets/logos/logo.png",
-        "fileHash": "sha256-db3a2f436caa896e3e7488146727b110404b51b9e2edc85d8ebea14a8c7846af",
+        "fileHash": "sha256-c2b80ebb297d6e9c27eeeb674a0a7573dba5d1fd98f8e3a38b0a96a4487bfdd1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 32983,
+        "fileSize": 50876,
         "status": 3,
         "language": "en",
         "authors": [
@@ -21,7 +21,7 @@
     },
     {
         "iconUrl": "https://i.imgur.com/JqgVon6.png",
-        "fileHash": "sha256-786093380476e139adcc0fd6e20aa7dd2572f8c5a41419832aeb8c69dffb5c3f",
+        "fileHash": "sha256-f293f9e14e92c30d31b0eaecfd1b09f6ebd52fe23f11531b5a42034eb27a8003",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
         "fileSize": 31164,
@@ -41,10 +41,10 @@
     },
     {
         "iconUrl": "https://streamed.st/favicon1.png",
-        "fileHash": "sha256-c7769d93d3f15f95b19a018d43c72e8f6146c5e983a35ff0936b0f8ba81cc893",
+        "fileHash": "sha256-6dcd5de77eefb0642491b402f6fde98339e5cf080b9565f47d8febd41e08bed3",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 57799,
+        "fileSize": 57795,
         "status": 1,
         "language": "en",
         "authors": [
