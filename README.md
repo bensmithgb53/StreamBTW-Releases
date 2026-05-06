@@ -1,11 +1,29 @@
 I'm trying lol 😆 
 
+## Plugin Format & Source
 
-DMCA
+Plugins are provided as compiled/encrypted `.cs` files for use directly in CloudStream.  
+Full source code is not published in this repository.
 
-We hereby issue this notice to inform you that these extemsions are just like ordinary search engines that fetch video files from internet, and do not violate the provisions of the Digital Millennium Copyright Act (DMCA). The Content that they are accessing are not hosted by us or the Cloud$tream application but the websites they are scraping from. If you think they are violating any intellectual property then please contact the actual file hosters not the owners of this repo or the Cloud $tream app.
+This repository does not contain any hosted media content — plugins only fetch links from third-party sites.
 
-Thank You.
+## ⚠️ Important Legal Disclaimer (UK)
+
+**UK Copyright Notice**
+
+These plugins function as search and discovery tools that fetch publicly available links and streams from third-party websites on the internet.
+
+- The plugins **do not host, store, or distribute** any copyrighted material.
+- All content remains on external websites.
+- We have no control over, and no affiliation with, those third-party sites.
+
+Under UK law (Copyright, Designs and Patents Act 1988), copyright infringement (if any) is the responsibility of the individual user. You must ensure your own compliance with all laws.
+
+**These plugins are provided for educational and personal use only.** We do not condone copyright infringement. Use at your own risk and responsibility.
+
+If you believe any content infringes your rights, contact the actual host/website, not this repository.
+
+**Note on Plugin Files**: Plugins are distributed as compiled/encrypted files suitable for direct use in CloudStream. Full source is not published here.
 
 # StreamBTW Releases
 
