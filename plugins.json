@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://github.com/bensmithgb53/StreamBTW-Cloudstream/blob/builds/Daddylive/daddylive.jpg",
-        "fileHash": "sha256-61862c83f46740427ff1114601be6eeb6ab7ea4bba8926b27b959522a8a7484e",
+        "fileHash": "sha256-06a5b0da037b9b1b95080e8b362383e78f0ed9a1da59b9315273b7b8bc0ab818",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 34444,
+        "fileSize": 34441,
         "status": 3,
         "language": "en",
         "authors": [
@@ -13,7 +13,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "Daddylive",
         "description": "Live streams from DaddyLive (dlstreams.com)",
         "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/Daddylive.cs3",
@@ -21,7 +21,7 @@
     },
     {
         "iconUrl": "https://i.imgur.com/JqgVon6.png",
-        "fileHash": "sha256-27939e501f57b31aed534d543313e435193eb64e802fa60b131d702512ea5450",
+        "fileHash": "sha256-503d76e9b0e9a62b190396333b0752387fa403c252e37d06ecd472f165712398",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
         "fileSize": 31165,
@@ -41,10 +41,10 @@
     },
     {
         "iconUrl": "https://streamed.st/favicon1.png",
-        "fileHash": "sha256-41e6d341faad481cfc5790f38547fa120c18b8759010954e30053d0ad287d9bd",
+        "fileHash": "sha256-ce880ec73935b0024b73425ba9e38f25b72c5de38bed7e9f1029fc93727e08b1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 57800,
+        "fileSize": 57798,
         "status": 1,
         "language": "en",
         "authors": [
