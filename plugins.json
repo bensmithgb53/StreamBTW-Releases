@@ -1,7 +1,7 @@
 [
     {
         "iconUrl": "https://github.com/bensmithgb53/StreamBTW-Cloudstream/blob/builds/Daddylive/daddylive.jpg",
-        "fileHash": "sha256-4393fd1bce7dde2718c6181de44c21ca4b3b495a7bc8ebb3077462734b4f4393",
+        "fileHash": "sha256-b69070cad7e04e4da98e833a49946b61cc86989ae9d834e1d96754f0053db6e8",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
         "fileSize": 38954,
@@ -21,10 +21,10 @@
     },
     {
         "iconUrl": "https://damitv.st/favicon.ico",
-        "fileHash": "sha256-418c03b0fe783e5c2fce05fee9d7300b161c0f784a8fa233012476d6b29d0971",
+        "fileHash": "sha256-f3553b87ac6877f3172afe72eca199828b349ccf045d6b9582741b5f377f3999",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 49343,
+        "fileSize": 49329,
         "status": 3,
         "language": "en",
         "authors": [
@@ -41,10 +41,10 @@
     },
     {
         "iconUrl": "https://i.imgur.com/JqgVon6.png",
-        "fileHash": "sha256-c109a0ab8881978c9eb9eccc15caada8430bbde667f0b601034a889f24789aa6",
+        "fileHash": "sha256-5272dfd19415c5dd486d4a99e82fe2463472c5a4f9885c10f640f0f5ad9a4dc9",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 41384,
+        "fileSize": 41428,
         "status": 1,
         "language": "en",
         "authors": [
@@ -61,10 +61,10 @@
     },
     {
         "iconUrl": "https://streamed.st/favicon1.png",
-        "fileHash": "sha256-c85df414b8f870bf416643f64386c02e88c55118f41140e93e39f5fbddc70b15",
+        "fileHash": "sha256-d6bc7a8225e43a5887fa8d9e7fba31a5de920f2d0a261d6d05777454e10827c2",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 69833,
+        "fileSize": 69830,
         "status": 1,
         "language": "en",
         "authors": [
