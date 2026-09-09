@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://github.com/bensmithgb53/StreamBTW-Cloudstream/blob/builds/Daddylive/daddylive.jpg",
-        "fileHash": "sha256-0ec331510d089435c6bfab93e39f9700ee3b91d0e8cd63c67dd17aaa4b9fe360",
+        "fileHash": "sha256-9c00834f831a2b0b760b8da207dd445ee17a1797aa6831978482935cd7f848cd",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 38957,
+        "fileSize": 38951,
         "status": 3,
         "language": "en",
         "authors": [
@@ -21,10 +21,10 @@
     },
     {
         "iconUrl": "https://damitv.st/favicon.ico",
-        "fileHash": "sha256-e4beacaab57f523b31fcfb02cc7c7b241898815eb12773132ee7b2c7241de5ce",
+        "fileHash": "sha256-f3084ef269fe4fcb0135bf1edee600c604ab14787e9f1cf1e84ff66e84c8bdcf",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 50721,
+        "fileSize": 51552,
         "status": 3,
         "language": "en",
         "authors": [
@@ -41,10 +41,10 @@
     },
     {
         "iconUrl": "https://i.imgur.com/JqgVon6.png",
-        "fileHash": "sha256-53f80e3af63390992fd818189dcb8ff2f03cf4b785735576a6e5f1948d87c0cb",
+        "fileHash": "sha256-efbf6faa040edbe4a816947a1913249afe92843509e1fa3eed73d7c7be4b55cd",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 43546,
+        "fileSize": 43554,
         "status": 1,
         "language": "en",
         "authors": [
@@ -61,10 +61,10 @@
     },
     {
         "iconUrl": "https://streamed.st/favicon1.png",
-        "fileHash": "sha256-6d92604e98add672dfb6d09649643a8d08619e5ce3a1897afa34fc4dbd3a64cc",
+        "fileHash": "sha256-d09d575f1157f98a5e758a48e544db75aeaa45d104b94ef651f7f513e4bbc28d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 69823,
+        "fileSize": 69834,
         "status": 1,
         "language": "en",
         "authors": [
