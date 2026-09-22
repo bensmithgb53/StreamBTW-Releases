@@ -1,7 +1,7 @@
 [
     {
         "iconUrl": "https://github.com/bensmithgb53/StreamBTW-Cloudstream/blob/builds/Daddylive/daddylive.jpg",
-        "fileHash": "sha256-b948994855636ee5d7039e24c7672971c6250ecbfdf7ffb0a0866c093113ecfd",
+        "fileHash": "sha256-5656814dbbc8b317065c17812aeff11da30a06959b4b8c8e6773df2e2206a2f6",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
         "fileSize": 38954,
@@ -21,10 +21,10 @@
     },
     {
         "iconUrl": "https://damitv.st/favicon.ico",
-        "fileHash": "sha256-561b1cf779ec98d3d91d0a9b8bb288dab02924dfe26015815ac214f257163526",
+        "fileHash": "sha256-8e8e03489edec01e395123796570b72ddd34323ca803eae71327315d4aeb5546",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 53942,
+        "fileSize": 53937,
         "status": 3,
         "language": "en",
         "authors": [
@@ -41,10 +41,10 @@
     },
     {
         "iconUrl": "https://i.imgur.com/JqgVon6.png",
-        "fileHash": "sha256-233e359d244771c41b1744c77faed0d90fcb82404c4e943b4ad1751b28872a55",
+        "fileHash": "sha256-32b16b3fed1e832f51ee90c041fc88e785943cc5a3345258a687a3b66d4e90a1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 45868,
+        "fileSize": 45876,
         "status": 1,
         "language": "en",
         "authors": [
@@ -61,10 +61,10 @@
     },
     {
         "iconUrl": "https://streamed.st/favicon1.png",
-        "fileHash": "sha256-5c52e27c0bd8f6ed6c9e14446d4c086d6d739d3c54f06620bf1b421e3242ce4c",
+        "fileHash": "sha256-4668d08232fcfecc6801b73098823786ff60ac323ec89ecc4f8bf1b5c1c7e4aa",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 69836,
+        "fileSize": 69832,
         "status": 1,
         "language": "en",
         "authors": [
@@ -78,5 +78,25 @@
         "description": "Live streams from the Streamed.",
         "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/Streamed.cs3",
         "name": "Streamed"
+    },
+    {
+        "iconUrl": "https://tap4sport.st/favicon.ico",
+        "fileHash": "sha256-3ccd8b61e106674ef2261a0a835c6faa7c10083534c1001bf4dfbd64538acd56",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
+        "fileSize": 69832,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Ben"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "StreamedAlt",
+        "description": "Live sports streams from Tap4Sport",
+        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/StreamedAlt.cs3",
+        "name": "StreamedAlt"
     }
 ]
