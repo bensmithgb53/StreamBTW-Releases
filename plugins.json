@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://github.com/bensmithgb53/StreamBTW-Cloudstream/blob/builds/Daddylive/daddylive.jpg",
-        "fileHash": "sha256-d374123983c9c0f43f9cea6fef0d7bf8d3a8f90f8b20eecdad084d9203b9ab66",
+        "fileHash": "sha256-390a5a1496d3e4063e2a641a7125f4422383257072d249c19bc961e21ca27422",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 45730,
+        "fileSize": 45175,
         "status": 3,
         "language": "en",
         "authors": [
@@ -13,7 +13,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "Daddylive",
         "description": "Live streams from DaddyLive (dlstreams.com)",
         "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/Daddylive.cs3",
@@ -21,10 +21,10 @@
     },
     {
         "iconUrl": "https://damitv.st/favicon.ico",
-        "fileHash": "sha256-f00760003054914e733e15aee5177f833f8ef625518c65e2e93768a2781d9399",
+        "fileHash": "sha256-8d3f2d38ddd0853473dd5bb9fa70416621603ee871e5839bdc0358b8059fa10e",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 73836,
+        "fileSize": 73311,
         "status": 3,
         "language": "en",
         "authors": [
@@ -33,7 +33,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "DamiTV",
         "description": "Live sports streams from DamiTV",
         "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/DamiTV.cs3",
@@ -41,10 +41,10 @@
     },
     {
         "iconUrl": "https://ppv.st/assets/img/ppv.png",
-        "fileHash": "sha256-b9fc2e2e451760e0f91a7a8b94a844a8b1ff29454d03d3aade6093f25bbef67e",
+        "fileHash": "sha256-449bd7fa5f90197a296d10130f50199533256f52fb7c6fd067128248d2f814d5",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 53685,
+        "fileSize": 53111,
         "status": 1,
         "language": "en",
         "authors": [
@@ -53,7 +53,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "PPVLand",
         "description": "Live streams from the PPV.",
         "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/PPVLand.cs3",
@@ -61,10 +61,10 @@
     },
     {
         "iconUrl": "https://streamed.st/favicon.png",
-        "fileHash": "sha256-cd83a8cb1573fadec4f06bec5c60e9058d5199ef421e0ec2d2172a17bc0c02c1",
+        "fileHash": "sha256-dd929f61f29c9ab35f9396bcb2947367477ce61fd98123763f855b71cc662632",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 77430,
+        "fileSize": 76866,
         "status": 1,
         "language": "en",
         "authors": [
@@ -73,7 +73,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "Streamed",
         "description": "Live streams from the Streamed.",
         "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/Streamed.cs3",
@@ -81,10 +81,10 @@
     },
     {
         "iconUrl": "https://tap4sport.st/favicon.ico",
-        "fileHash": "sha256-8246999b39fb3692cd7c86b2977c97a7cf0abba007ef154d8c86f6ba81967d51",
+        "fileHash": "sha256-04eec9e9cce956f505b5adb77f1844e18ff4911eda48bd682e9d8cef895c5c94",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 77439,
+        "fileSize": 76862,
         "status": 1,
         "language": "en",
         "authors": [
@@ -93,7 +93,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "StreamedAlt",
         "description": "Live sports streams from Tap4Sport",
         "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/StreamedAlt.cs3",
