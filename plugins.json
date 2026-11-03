@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Cloudstream/builds/Daddylive/daddylive.jpg",
-        "fileHash": "sha256-bfd5db70700ec279f3707c09a14bc888b868d2a79390f2a21312b1576d83bba2",
+        "fileHash": "sha256-1578390526872ac1cce9dfef6995e28cd8915de5eeb08493a5aebc57c022cb45",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 88745,
+        "fileSize": 87675,
         "status": 3,
         "language": "en",
         "authors": [
@@ -13,7 +13,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 20,
+        "version": 19,
         "internalName": "Daddylive",
         "description": "Live streams from DaddyLive (thedaddy.pk)",
         "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/Daddylive.cs3",
@@ -21,30 +21,10 @@
     },
     {
         "iconUrl": "https://damitv.st/favicon.ico",
-        "fileHash": "sha256-48b659341b9b9ba57a59aa7f540a39d10b7496b0b2dd3e37c5594731b2dcb7c1",
+        "fileHash": "sha256-7be162b3961b00cba63fab9b706838b9491dd5f47f7f3eb8bcb01d4683338cf4",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 110359,
-        "status": 3,
-        "language": "en",
-        "authors": [
-            "Ben"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 4,
-        "internalName": "DamiTV",
-        "description": "Live sports streams from DamiTV",
-        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/DamiTV.cs3",
-        "name": "DamiTV"
-    },
-    {
-        "iconUrl": "https://ntv.st/assets/img/logo1.png",
-        "fileHash": "sha256-0b37eb241bd06e928a382d7068d630572259cc96f90d621b5ffd9f95f2919eb4",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 68510,
+        "fileSize": 109067,
         "status": 3,
         "language": "en",
         "authors": [
@@ -54,6 +34,26 @@
             "Live"
         ],
         "version": 3,
+        "internalName": "DamiTV",
+        "description": "Live sports streams from DamiTV",
+        "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/DamiTV.cs3",
+        "name": "DamiTV"
+    },
+    {
+        "iconUrl": "https://ntv.st/assets/img/logo1.png",
+        "fileHash": "sha256-85af873d1cb500a57b11637b81fc3ab9a3e5dc693c5c4fb2444f1669bd66841e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
+        "fileSize": 67498,
+        "status": 3,
+        "language": "en",
+        "authors": [
+            "Ben"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 2,
         "internalName": "NTV",
         "description": "Live sports streams from NTVSTREAM",
         "url": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Releases/builds/NTV.cs3",
@@ -61,10 +61,10 @@
     },
     {
         "iconUrl": "https://ppv.st/assets/img/ppv.png",
-        "fileHash": "sha256-46e9f201168961bf0a33f460ac8b004e24bb836869f4b90874efbdd3812df06e",
+        "fileHash": "sha256-823b2ed568b4d042e1c8d0088d003d04a84c229f1065f8fe7d41a510eabe906b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 53112,
+        "fileSize": 53115,
         "status": 1,
         "language": "en",
         "authors": [
@@ -81,10 +81,10 @@
     },
     {
         "iconUrl": "https://streamed.st/favicon.png",
-        "fileHash": "sha256-dfeaadec2f09fabcdf669ebc2eeafc3a091af113f03bb407667b9fbc37272c02",
+        "fileHash": "sha256-0f37618199c010f627369ad5f3aa65ecaf857374df29a35e4d9d3cdda4874f5f",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 76867,
+        "fileSize": 76862,
         "status": 1,
         "language": "en",
         "authors": [
@@ -101,10 +101,10 @@
     },
     {
         "iconUrl": "https://tap4sport.st/favicon.ico",
-        "fileHash": "sha256-feb66ca72ae722b7f981b0781ec02b44f546d5d5a169209ef11ea58cdeab2db5",
+        "fileHash": "sha256-548db44cc4dbbc499b5fb2c04776b7fbd35fdc8fa8bb930432c787f1242db4af",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 76852,
+        "fileSize": 76863,
         "status": 1,
         "language": "en",
         "authors": [
