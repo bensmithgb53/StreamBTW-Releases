@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://raw.githubusercontent.com/bensmithgb53/StreamBTW-Cloudstream/builds/Daddylive/daddylive.jpg",
-        "fileHash": "sha256-c344fd654e10a9ecacfdd94fbcabd228f9bc44e47ad7caa314cbd9b5b46c8866",
+        "fileHash": "sha256-346367a79b0dbea3552f808d6cc85fdbebb75cac314f004470ab162dfbdbe2ea",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 90420,
+        "fileSize": 90462,
         "status": 3,
         "language": "en",
         "authors": [
@@ -21,10 +21,10 @@
     },
     {
         "iconUrl": "https://damitv.st/favicon.ico",
-        "fileHash": "sha256-b646f3f7605415f7de69992148a1967a221f921237cfdb7b00bae1059c26430c",
+        "fileHash": "sha256-34db8ffb7e6ed59eff1420f92dac3526e106213d0598f000266bb9e7e572c43d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 108719,
+        "fileSize": 108819,
         "status": 3,
         "language": "en",
         "authors": [
@@ -41,10 +41,10 @@
     },
     {
         "iconUrl": "https://ppv.st/assets/img/ppv.png",
-        "fileHash": "sha256-233e367a8c835e9475710479736c2ba715e6475883f5a905241625e09fa7b692",
+        "fileHash": "sha256-a282e008c3235860f8104fb2ec63eac8be2a0059c919a3644aaa210bdee219e0",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 54588,
+        "fileSize": 54590,
         "status": 1,
         "language": "en",
         "authors": [
@@ -61,10 +61,10 @@
     },
     {
         "iconUrl": "https://streamed.st/favicon.png",
-        "fileHash": "sha256-1f7f60b0ea65d99af26ff6959af8296cd164c6418b09903d1ed38d3e1cad20c4",
+        "fileHash": "sha256-bdf380e71000f5144b7a0c48e229d079a8dd3551e0cda3fd5c1033caefc8de59",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 76866,
+        "fileSize": 76878,
         "status": 1,
         "language": "en",
         "authors": [
@@ -81,10 +81,10 @@
     },
     {
         "iconUrl": "https://tap4sport.st/favicon.ico",
-        "fileHash": "sha256-97bd8ef2891ae0bed2a1945d7932a30ee35a3fd65ea7f752d69aea2db6ba9f26",
+        "fileHash": "sha256-0ab34941f4696ff42d9bb89451d65478d3acd97d7539cb7c179c1b23cffc17d2",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bensmithgb53/StreamBTW-Releases",
-        "fileSize": 76866,
+        "fileSize": 76862,
         "status": 1,
         "language": "en",
         "authors": [
